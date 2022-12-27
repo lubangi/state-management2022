@@ -1,0 +1,8 @@
+{
+  "name": "statemanagement",
+  "version": "1.0.0",
+  "description": "managing state in react by Lionnel",
+  "main": "index.js",
+  "author": "lubangi",
+  "license": "MIT"
+}
